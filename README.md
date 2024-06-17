@@ -1,10 +1,10 @@
 # CODETECH-Task1
-**Name:** SHAUNAK DANKE
-**Company:** CODETECH IT SOLUTIONS
-**ID:** CT04JP2148
-**Domain:** Java Programming
-**Duration:** June to July 2024
-**Mentor:** SHRAVANI GOUNI
+- **Name:** SHAUNAK DANKE
+- **Company:** CODETECH IT SOLUTIONS
+- **ID:** CT04JP2148
+- **Domain:** Java Programming
+- **Duration:** June to July 2024
+- **Mentor:** SHRAVANI GOUNI
 
 ### Overview of Project
 - Project: Simple Calculator
